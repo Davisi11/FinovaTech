@@ -1,0 +1,30 @@
+body {
+    background-color: #343a40; 
+}
+
+.card {
+    border: none;
+}
+
+.form-group label {
+    color: #fff; 
+}
+
+.forgot-password a {
+    color: #fff; 
+}
+body {
+    background-color: #343a40; 
+}
+.card {
+    background-color: #495057; 
+}
+.text-primary, .text-light, .forgot-password a {
+    color: #f1f3f4!important; 
+}
+.logo-and-slogan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
